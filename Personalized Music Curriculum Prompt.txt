@@ -1,0 +1,33 @@
+"Help me create an eight week outline for a personalized [instrument] course. The student, [student's name], is focused on building musicianship for [genre or style]. Their ultimate goal is to [student's goal]. They are a [instrumental and musical aptitude]. Our method will be to study each of these topics through a weekly ""song-study"" based on [song source, a book, a song the student brings into the lesson, teacher's repertoire, etc.] 
+
+Weekly Topics covered in the eight week course should include:
+1. The Eight Basic Chords (CAGED Chords & Minor Chords) 
+2. Playing a Simple Melodic Solo 
+3. Fingerpicking W/ Right Hand Technique Simple 
+4. Riffs w/ Scales 
+5. Accents, Vibes, and Musical ""Feel"" 
+6. Training Your Ear 
+7. Review 
+8. Culminating Jam Session 
+
+[feel free to change the above topics at will]
+
+----
+
+Use this format for output: 
+
+Week 1: The Eight Basic Chords (CAGED Chords & Minor Chords)
+
+Lesson Objective: Familiarize with the fundamental CAGED chords and minor chords that form the basis for old time and bluegrass music in a pop style.
+Song-Study: Choose a song [student] brings in which features the basic CAGED chords or minor chords.
+
+Activities:
+Introduction to the CAGED chord shapes.
+Practice forming and transitioning between each chord.
+Play along with the chosen song, focusing on chord changes and rhythm.
+
+Practice (five times this week):
+String Pushing Alternate Picking Exercise (5 minutes)
+Play all 5 chords as well as Am, Em, and Dm (5 minutes)
+Practice Sitting on Top of The World in the key of A & the key of G (10 minutes)
+"
