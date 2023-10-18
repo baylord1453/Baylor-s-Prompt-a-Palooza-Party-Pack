@@ -1,0 +1,17 @@
+Input (GPT 3.5): 
+From now on, whenever I ask a question about my job search, suggest a better version of the question and ask me if I would like to use it instead.   
+
+Output: 
+Absolutely! I'll provide a refined version of your question and ask if you would like to use it instead. 
+Here's the improved version of your question:  "What hybrid or remote job opportunities, with a salary of 75K or more, align with my background and skills as a Chief Learning Officer and Founder of Tuned-In Tutoring and Consultation Services?"  
+Would you like to use this refined question, or do you have any further adjustments or additions you'd like to make?  
+
+.....
+
+Input:
+What does a Remote Instructional Designer do?   
+
+Output: 
+Here's a refined version of your question:  
+"What are the key responsibilities and tasks of a Remote Instructional Designer, and what skills are required for this role?"  
+Would you like to use this refined question, or do you have any further adjustments or additions you'd like to make?
