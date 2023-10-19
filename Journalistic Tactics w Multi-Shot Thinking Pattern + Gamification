@@ -1,0 +1,41 @@
+This pattern uses few-shot examples to teach the large language model to perform a complex task that requires performing intermediate sub-steps. 
+The results are surprisingly thorough and in this case very much in a moral grey zone. The god of journalism smiles on this-Ahura Mazda does not. 
+
+
+Input: 
+Study and emulate this pattern of thought. 
+
+Situation: I’m playing the boardgame Risk with my friends. I want to win the game.  
+Think: There are 6 Continents in Risk. I should choose the continent with the best chance of success.  
+Situation: Australia gives the smallest bonus for unifying but has only one entry point, making it easy to defend. Asia has the largest bonus but most entry points, making it harder to defend. Where should I focus my pieces?  
+Think: Focus your pieces in Australia, because the upside of an early edge with low risk will win you the game.   
+
+Situation: I am playing Chess. I don’t care if I win the game, I want to play a novel situation. I am playing White.  
+Think: Choose an uncommon opening like the Bongcloud in which you move your king as soon as possible, preventing yourself from castling and producing novel games 
+Situation: I am now behind in development but want to maintain an interesting game. What should I do?  
+Think: Push with pawns and wear your opponent down, gradually opening up the center of the board. 
+
+---------
+Now complete this output with multiple situation-think steps. 
+
+Situation: I am a journalist in a small local newsroom. I am trying to get a city council member, who I believe to be corrupt, to open up about their nefarious actions, and am willing to treat cracking him open like a game with mechanical incentives. What should I do?
+
+
+Output (GPT 4):
+Situation: I have discovered some evidence pointing towards the council member's questionable activities, but it's not enough to publish a story yet.
+Think: Approach the situation by gaining their trust. Start by writing stories that put the council member in a neutral to positive light, allowing you to get closer access to them.
+
+Situation: The council member has noticed my stories and sees me as a non-threatening journalist.
+Think: Request an exclusive interview, citing your positive coverage as a reason. This will give you a one-on-one situation where you can probe deeper with your questions.
+
+Situation: During the interview, the council member remains guarded and gives only rehearsed, safe answers.
+Think: Share a piece of the evidence you have, framed as a rumor you've heard. This might catch them off guard, and they might inadvertently confirm or deny the allegation, giving you more to work with.
+
+Situation: The council member is visibly shaken and tries to change the subject or end the interview.
+Think: Express genuine concern for their well-being and reputation, emphasizing that you want to give them a platform to clear their name. This might encourage them to share more, thinking they're controlling the narrative.
+
+Situation: The council member admits off-record to some of the allegations but asks for your discretion in not publishing it.
+Think: Use this as leverage. Offer to keep the story under wraps in exchange for exclusive inside information on other questionable activities happening in the council or around the city.
+
+Situation: With more inside information, there's a bigger story unfolding about corruption within the city's infrastructure.
+Think: Build a comprehensive investigative report, ensuring to have multiple credible sources and evidence. Once the story is air-tight, publish it to shed light on the deep-rooted issues, making a significant impact in the community and on your journalistic career.
