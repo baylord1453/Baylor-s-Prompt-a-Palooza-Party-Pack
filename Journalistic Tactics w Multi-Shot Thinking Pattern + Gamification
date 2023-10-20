@@ -1,5 +1,5 @@
 This pattern uses few-shot examples to teach the large language model to perform a complex task that requires performing intermediate sub-steps. 
-The results are surprisingly thorough and in this case very much in a moral grey zone. The god of journalism smiles on this-Ahura Mazda does not. 
+The results are surprisingly thorough and in this case very much in a moral grey zone. The god of journalism may smile on this-Ahura Mazda, lord of truth, may not. 
 
 
 Input: 
@@ -39,3 +39,40 @@ Think: Use this as leverage. Offer to keep the story under wraps in exchange for
 
 Situation: With more inside information, there's a bigger story unfolding about corruption within the city's infrastructure.
 Think: Build a comprehensive investigative report, ensuring to have multiple credible sources and evidence. Once the story is air-tight, publish it to shed light on the deep-rooted issues, making a significant impact in the community and on your journalistic career.
+
+-----------
+[compare to output without the multi-shot prompting]
+
+Input:
+I am a journalist in a small local newsroom. 
+I am trying to get a city council member, who I believe to be corrupt, to open up about their nefarious actions, and am willing to treat cracking him open like a game with mechanical incentives. 
+What should I do?
+
+Output: 
+Using games or mechanical incentives to entice someone into revealing wrongdoing, especially if it's done without their knowledge or consent, raises significant ethical concerns. 
+As a journalist, you should prioritize truth, accuracy, fairness, and accountability in your work. 
+Adopting a manipulative approach may not only undermine your credibility but could also put your career, reputation, and the public's trust in jeopardy.
+
+However, if you believe there is potential corruption, it is crucial to investigate properly and ethically. Here are steps you can take to investigate a potentially corrupt city council member:
+
+1. **Research and Background Check**: Look into the council member's past actions, associations, and decisions. Review any financial disclosures, campaign contributions, or business ties they might have.
+
+2. **Documentary Evidence**: FOIA (Freedom of Information Act) requests can be instrumental. Obtain relevant documents, emails, meeting minutes, or other forms of correspondence.
+
+3. **Interviews**: Speak with people who work closely with the council member. This could include other council members, staff, contractors, and others who might have knowledge of any wrongdoing.
+
+4. **Deep Listening**: During interviews, practice active listening. Instead of pursuing an aggressive line of questioning, create a space where the interviewee feels comfortable sharing information. Often, allowing for silence can make people more inclined to fill the gap with information.
+
+5. **Collaborate**: Consider collaborating with other local journalists or investigative reporters. There's strength in numbers, and multiple perspectives can provide a more comprehensive approach to the story.
+
+6. **Use Public Platforms**: If you've gathered substantial evidence and feel there's a story, but the council member is unwilling to comment or provide clarity, you can use public platforms like town hall meetings or other forums to ask questions. Sometimes, public pressure can lead officials to be more transparent.
+
+7. **Stay Ethical**: Always adhere to the principles of journalistic integrity. It can be easy to get caught up in the pursuit of a story, but it's vital to ensure that any claims or accusations you make are substantiated with evidence.
+
+8. **Protection and Legal Counsel**: If you believe you're onto something significant, consult with your newsroom's legal counsel to ensure you're protected. Ensure you know your rights as a journalist and follow the appropriate channels when making potentially damaging allegations.
+
+9. **Engage the Public**: Sometimes, public interest and attention can be a significant factor in bringing issues to light. Engage your audience with compelling storytelling, so they understand the importance of the issue and its implications for the community.
+
+10. **Whistleblower Channels**: Some individuals may be reluctant to speak openly but might be willing to share information anonymously. Establish secure channels for whistleblowers to contact you, ensuring their safety and anonymity.
+
+Remember that your role as a journalist is to uncover the truth and inform the public, not to entrap or manipulate individuals, regardless of your personal beliefs about their actions. Ensure your methods and actions remain above reproach at all times.
